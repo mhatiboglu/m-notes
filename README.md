@@ -12,4 +12,15 @@ array.prottype.function()
 tanımlı degil veya desteklemiyorsa biz tanımlıyoruz.
 ------------------------------------------------------------
 
+js using in html 
+
+we have two way.
+
+-   inline
+    <script></script>   
+    
+-   extarnel
+    <script src='filepath/script.js'> </script>
+    
+------------------------------------------------------------
 
