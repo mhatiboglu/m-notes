@@ -225,7 +225,6 @@ console.log(id); // 42
 console.log(age); // 20
 
 
-
 ---------------
 
 
