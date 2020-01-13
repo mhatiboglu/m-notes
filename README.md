@@ -343,3 +343,17 @@ asyncFunc("Work 1") // Task 1
 console.log("End");
 
 --------------------
+                            
+
+<b> and <i> are explicit - they specify bold and italic respectively.
+
+<strong> and <em> are semantic - they specify that the enclosed text should be "strong" or "emphasised" in some way, usually bold and italic, but allow for the actual styling to be controlled via CSS. Hence these are preferred in modern web pages.
+
+The visual result is the same. However, the semantic meaning is different. The <em> element represents stress emphasis of its contents, while the <i> element represents text that is set off from the normal prose, such a foreign word, fictional character thoughts, or when the text refers to the definition of a word instead of representing its semantic meaning. 
+(The title of a work, such as the name of a book or movie, should use <cite>.)
+    
+    
+    
+    
+--------------------
+ 
